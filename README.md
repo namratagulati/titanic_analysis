@@ -33,5 +33,5 @@ To get started with the project, follow this:
    ```bash
    git clone https://github.com/your-username/titanic-analysis.git
 ## Acknowledgments
-The Titanic dataset for providing a historical context for analysis.
+The Titanic dataset for providing a historical context for analysis.     
 NumPy, Pandas, and Seaborn developers for creating essential tools in data science and visualization.
